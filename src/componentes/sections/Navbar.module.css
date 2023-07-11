@@ -1,0 +1,19 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+}
+
+.Navbar ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+
+.Navbar li{
+    margin: 10px;
+}
+
+.Navbar a{
+    color: aliceblue !important
+}
