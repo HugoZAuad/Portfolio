@@ -14,16 +14,16 @@ function Projects(){
             title="LP - DNC"
             tech="HTML, CSS e JS"
             description="Desenvolvimento de uma Landing Page para lançamento da formação de tecnologia"
-            repo="https://github.com/HugoZAuad/DNC_DESAFIO1_LANDPAGE"
-            site="https://sitearquitetura.netlify.app"
+            repo="https://github.com/HugoZAuad/Desafio_1_DNC_Landing_Page_Arquitetura"
+            site="https://desafio-1-dnc-landing-page-arquitetura.vercel.app"
                 />
             <Card
             img={portF}
             title="Portfolio"
             tech="React"
             description="Desenvolvimento do Portfolio em react"
-            repo="https://github.com/HugoZAuad/Desafio_1_DNC_Landing_Page_Arquitetura"
-            site="https://desafio-1-dnc-landing-page-arquitetura.vercel.app"
+            repo=""
+            site=""
                 />
             <Card
             img={ccxp22}
