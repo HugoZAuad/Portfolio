@@ -30,8 +30,8 @@ function Projects(){
             title="CCXP22"
             tech="HTML, CSS E JS"
             description="Desenvolvimento de uma Landing Page para o inicio da CCXP 2022"
-            repo="https://github.com/HugoZAuad/DNC_JS/tree/main/16_DesafioCCXP"
-            site="https://testeccxp2022.netlify.app"
+            repo="https://github.com/HugoZAuad/CCXP22_Lading_Page"
+            site="https://ccxp-22-lading-page.vercel.app/"
                 />
             <ButtonB text='Veja mais dos meus projetos' link='https://github.com/HugoZAuad?tab=repositories'/>
         </div>
