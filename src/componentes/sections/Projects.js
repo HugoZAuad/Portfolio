@@ -22,8 +22,8 @@ function Projects(){
             title="Portfolio"
             tech="React"
             description="Desenvolvimento do Portfolio em react"
-            repo=""
-            site=""
+            repo="https://github.com/HugoZAuad/Portfolio"
+            site="https://portfolio-ivory-three-77.vercel.app"
                 />
             <Card
             img={ccxp22}
