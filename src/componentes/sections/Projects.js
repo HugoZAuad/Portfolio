@@ -22,8 +22,8 @@ function Projects(){
             title="Portfolio"
             tech="React"
             description="Desenvolvimento do Portfolio em react"
-            repo="https://github.com/HugoZAuad/DNC_REACT"
-            site="https://sitearquitetura.netlify.app"
+            repo="https://github.com/HugoZAuad/Desafio_1_DNC_Landing_Page_Arquitetura"
+            site="https://desafio-1-dnc-landing-page-arquitetura.vercel.app"
                 />
             <Card
             img={ccxp22}
