@@ -10,3 +10,10 @@
 .Presentation h4{
     font-size: 25px;
 }
+
+.Presentation img{
+    position: absolute;
+    right: 400px;
+    width: 300px;
+    bottom: 430px;
+}
