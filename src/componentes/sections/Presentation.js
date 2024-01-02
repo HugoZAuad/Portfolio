@@ -1,7 +1,6 @@
 import styles from './Presentation.module.css'
 import ButtonA from '../elements/ButtonA'
 import {useEffect, useState} from 'react'
-import Photo from '../../Image/WhatsApp_Image_2022-10-15_at_01.58.32-removebg-preview-removebg-preview.png'
 
 function Presentation(){
     const [text, setText] = useState('');
@@ -50,7 +49,6 @@ function Presentation(){
                 sempre me inovar.
             </h4>
             <ButtonA link='https://www.linkedin.com/in/hugozauad/' text='Conecte-se comigo!' />
-            <img src={Photo}/>
         </div>
     )  
 }
